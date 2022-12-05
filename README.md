@@ -41,42 +41,25 @@
 ### Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating | Contests|
 | -- | -------- | ----------- | -------| -------|          
-| Leetcode | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 145 | 1824 | 5|
-| Interviewbit | [souravcse4bu_d846b9a99d1c](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 65 | N/A | 2|
-| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 427 | 1676 | 106|
-| Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 | Won't Say |57|
-| Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 | 1609 |33|
-| Codeforces | [sourav_biswas_santo](https://codeforces.com/profile/sourav_biswas_santo)| 216 | 1395 |21|
-| Codeforces | [kumropotash](https://codeforces.com/profile/kumropotash)| 159 | 1200 | 22|
-| Codeforces | [stranger1234](https://codeforces.com/profile/stranger1234)| 142 | 1200 | 14|
-| Codeforces | [Hiro_hamada](https://codeforces.com/profile/Hiro_hamada)| 57 | 1404 | 18|
-| CodeChef | [hiro_hamada2](https://www.codechef.com/users/hiro_hamada2) | 150 | 2064 | 28|
-| CodeChef | [kumropotash](https://www.codechef.com/users/kumropotash) | 49 | 1981 | 10|
-| Toph | [Sourav1234](https://toph.co/u/Sourav1234) | 188 | 1888 | 67| 
-| Toph | [High_Tempered](https://toph.co/u/High_tempered) | 26 | 1696 | 19|
-| Toph | [Believers](https://toph.co/u/Believers) | 25 | 1901 | 5|
-| AtCoder | [hiro_hamada](https://atcoder.jp/users/hiro_hamada) | 70 | 708 | 22|
-| SPOJ | [sourav1996](https://www.spoj.com/users/sourav1996/) | 14 | N/A | N/A|
-| LightOJ | [Sourav Biswas](https://lightoj.com/user/sourav-cse4-) | 67 | N/A | N/A|
-| Vjudge | [sourav_santo](https://vjudge.net/user/sourav_santo) | 26 | N/A | 7|
-| Vjudge | [Believers](https://vjudge.net/user/Believers) | 22 |N/A | 6|
-| Vjudge | [souravcsebu](https://vjudge.net/user/souravcsebu) | 13 | N/A | 3|
-| Vjudge | [sourav](https://vjudge.net/user/souravcse1996) | 5 | N/A | N/A|
-| UVA | [sourav_biswas_santo (Uva id - 900836](http://uhunt.onlinejudge.org/id/900836) | 112 | N/A | N/A|
-| UVA | [sourav_biswas_santo1 (Uva id - 938629](http://uhunt.onlinejudge.org/id/938629) | 22 | N/A | N/A|
-| HackerEarth | [sourav351](https://www.hackerearth.com/@sourav351) | 7 | N/A | 1|
-| HackerRank | [sourav_cse4_bu](https://www.hackerrank.com/sourav_cse4_bu?hr_r=1) | 2 | N/A | N/A|
-| CS Academy | [sourav_biswas_santo](https://csacademy.com/user/sourav_biswas_santo) | 6 | 1200| 3|
-| Newton's Coding School | [sourav.cse4.bu](https://my.newtonschool.co/user/sourav.cse4.bu/) | 6 | 2212| 2|
-| CodeMarshal | [Sourav Biswas](https://algo.codemarshal.org/users/sourav1996) | 32 | N/A| 5|
-| CSES | [Not Eager to SHare id](https://algo.codemarshal.org/users/sourav1996) | 30 | N/A| N/A|
-| Facebook | [Facebook HackerCup মি.শান্ত](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325) | 11 | N/A| 2|
-| Google Kickstart and CodeJam | [sourav.cse4.bu(_dormammu_)](https://github.com/souravbiswassanto/Codes) | 29 | N/A| 7|
+| Leetcode | [sk_arman](https://leetcode.com/arman____/)| 320 | 1871 | 8|
+| Codeforces | [sk_arman](https://codeforces.com/profile/sk_arman)| 1100 | 1661 | 139|
+| CodeChef | [arman____](https://www.codechef.com/users/arman____) | 215 | 1980 | 38|
+| Toph | [skarman](https://toph.co/u/skarman) | 36 | 1570 | 5| 
+| AtCoder | [sk_arman](https://atcoder.jp/users/sk_arman) | 70 | 902 | 25|
+| SPOJ | [arman____](https://www.spoj.com/users/sourav1996/) | 47 | N/A | N/A|
+| LightOJ | [sk_arman](https://lightoj.com/user/sk_arman) | 138 | N/A | N/A|
+| Vjudge | [armancse](https://vjudge.net/user/armancse) | 56 | N/A | 7|
+| UVA | [sk_arman, id: 888496](http://uhunt.onlinejudge.org/id/888496) | 152 | N/A | N/A|
+| HackerEarth | [@skarman](https://www.hackerearth.com/@skarman) | 72 | 1909 | 11|
+| HackerRank | [arman_cse4_bu](https://www.hackerrank.com/arman_cse4_bu) | 8 | N/A | N/A|
+| CodeMarshal | [skarman](https://algo.codemarshal.org/users/skarman) | 40 | N/A| 10|
+| Facebook | [sk_arman](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/96351661072791) | 11 | N/A| 2|
+| Google Kickstart and CodeJam | [arman.cse4.bu(sk_arman))](https://github.com/souravbiswassanto/Codes) | 15 | N/A| 7|
 | Total | | 2728 | |465|
 
 
 <!--
-**souravbiswassanto/souravbiswassanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sheikh-arman/sheikh-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
