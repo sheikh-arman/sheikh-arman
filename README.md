@@ -55,7 +55,7 @@
 | CodeMarshal | [skarman](https://algo.codemarshal.org/users/skarman) | 40 | N/A| 10|
 | Facebook | [sk_arman](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/96351661072791) | 11 | N/A| 2|
 | Google Kickstart and CodeJam | [arman.cse4.bu(sk_arman))](https://github.com/souravbiswassanto/Codes) | 15 | N/A| 7|
-| Total | | 2728 | |465|
+| Total | | 2280 | |252|
 
 
 <!--
