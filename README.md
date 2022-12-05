@@ -1,23 +1,23 @@
 <h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
 
 <p align="left">
-  <a href="https://leetcode.com/Hiro_hamada/">
-    <img src="https://cp-badges.deta.dev/leetcode/Hiro_hamada" alt="Leetcode" />
+  <a href="https://leetcode.com/arman____/">
+    <img src="https://cp-badges.deta.dev/leetcode/arman____" alt="Leetcode" />
   </a>
-  <a href="https://codeforces.com/profile/_dormammu_">
-    <img src="https://cp-badges.deta.dev/codeforces/_dormammu_" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/sk_arman">
+    <img src="https://cp-badges.deta.dev/codeforces/sk_arman" alt="Codeforces" />
   </a>
-  <a href="https://codechef.com/users/hiro_hamada2/">
-    <img src="https://cp-badges.deta.dev/codechef/hiro_hamada2" alt="CodeChef" />
+  <a href="https://codechef.com/users/arman____/">
+    <img src="https://cp-badges.deta.dev/codechef/arman____" alt="CodeChef" />
   </a>
-  <a href="https://atcoder.jp/users/Hiro_hamada/">
-    <img src="https://cp-badges.deta.dev/atcoder/Hiro_hamada" alt="Atcoder" />
+  <a href="https://atcoder.jp/users/sk_arman/">
+    <img src="https://cp-badges.deta.dev/atcoder/sk_arman" alt="Atcoder" />
   </a>
-  <a href="https://github.com/souravbiswassanto?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/souravbiswassanto?color=green&logo=github">
+  <a href="https://github.com/sheikh-arman?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikh-arman?color=green&logo=github">
   </a>
-  <a href="https://github.com/souravbiswassanto/">
-    <img src="https://komarev.com/ghpvc/?username=souravbiswassanto" alt="visitors" />
+  <a href="https://github.com/sheikh-arman/">
+    <img src="https://komarev.com/ghpvc/?username=sheikh-arman" alt="visitors" />
   </a>
 </p>
 <h3> Currently I'm, </h3>
@@ -27,14 +27,14 @@
   <li> 💡Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
     <a href="https://leetcode.com">Leetcode</a> </li>
   <li> 📖Learning Various Data Structures and Algorithms </li>
-  <li> 📗Working on Final Year Projects, developing using django </li>
+  <li> 📗Working on Final Year Thesis </li>
   <li> 💼 Open to Work for <b>Software Engineer</b> Role </li>
 </ul>
 
 ### My Achievments
 <ul>
   <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
-  <li> 🎓<b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
+  
   <li> 👕Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
 </ul>
 
