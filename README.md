@@ -48,14 +48,14 @@
 | AtCoder | [sk_arman](https://atcoder.jp/users/sk_arman) | 70 | 902 | 25|
 | SPOJ | [arman____](https://www.spoj.com/users/sourav1996/) | 47 | N/A | N/A|
 | LightOJ | [sk_arman](https://lightoj.com/user/sk_arman) | 138 | N/A | N/A|
-| Vjudge | [armancse](https://vjudge.net/user/armancse) | 56 | N/A | 7|
-| UVA | [sk_arman, id: 888496](http://uhunt.onlinejudge.org/id/888496) | 152 | N/A | N/A|
+| Vjudge | [armancse](https://vjudge.net/user/armancse) | 76 | N/A | 7|
+| UVA | [sk_arman, id: 888496](http://uhunt.onlinejudge.org/id/888496) | 172 | N/A | N/A|
 | HackerEarth | [@skarman](https://www.hackerearth.com/@skarman) | 72 | 1909 | 11|
 | HackerRank | [arman_cse4_bu](https://www.hackerrank.com/arman_cse4_bu) | 8 | N/A | N/A|
 | CodeMarshal | [skarman](https://algo.codemarshal.org/users/skarman) | 40 | N/A| 10|
 | Facebook | [sk_arman](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/96351661072791) | 11 | N/A| 2|
 | Google Kickstart and CodeJam | [arman.cse4.bu(sk_arman))](https://github.com/souravbiswassanto/Codes) | 15 | N/A| 7|
-| Total | | 2280 | |252|
+| Total | | 2320 | |252|
 
 
 <!--
