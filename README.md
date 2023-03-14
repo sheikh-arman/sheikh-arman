@@ -41,8 +41,8 @@
 ### Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating | Contests|
 | -- | -------- | ----------- | -------| -------|          
-| Leetcode | [sk_arman](https://leetcode.com/arman____/)| 320 | 1871 | 8|
-| Codeforces | [sk_arman](https://codeforces.com/profile/sk_arman)| 1100 | 1661 | 139|
+| Leetcode | [sk_arman](https://leetcode.com/arman____/)| 394 | 1871 | 8|
+| Codeforces | [sk_arman](https://codeforces.com/profile/sk_arman)| 1173 | 1661 | 139|
 | CodeChef | [arman____](https://www.codechef.com/users/arman____) | 215 | 1980 | 38|
 | Toph | [skarman](https://toph.co/u/skarman) | 36 | 1570 | 5| 
 | AtCoder | [sk_arman](https://atcoder.jp/users/sk_arman) | 70 | 902 | 25|
@@ -55,7 +55,7 @@
 | CodeMarshal | [skarman](https://algo.codemarshal.org/users/skarman) | 40 | N/A| 10|
 | Facebook | [sk_arman](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/96351661072791) | 11 | N/A| 2|
 | Google Kickstart and CodeJam | [arman.cse4.bu(sk_arman))](https://github.com/souravbiswassanto/Codes) | 15 | N/A| 7|
-| Total | | 2320 | |252|
+| Total | | 2500+ | |252|
 
 
 <!--
