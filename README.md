@@ -43,7 +43,7 @@
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [sk_arman](https://leetcode.com/arman____/)| 394 | 1871 | 8|
 | Codeforces | [sk_arman](https://codeforces.com/profile/sk_arman)| 1173 | 1661 | 139|
-| CodeChef | [arman____](https://www.codechef.com/users/arman____) | 215 | 1980 | 38|
+| CodeChef | [arman____](https://www.codechef.com/users/arman____) | 235 | 1980 | 38|
 | Toph | [skarman](https://toph.co/u/skarman) | 36 | 1570 | 5| 
 | AtCoder | [sk_arman](https://atcoder.jp/users/sk_arman) | 70 | 902 | 25|
 | SPOJ | [arman____](https://www.spoj.com/users/sourav1996/) | 47 | N/A | N/A|
