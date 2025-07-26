@@ -35,7 +35,6 @@
 <ul>
   <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
   
-  <li> 👕Won T-shirts from Meta Hackercup 2022 </li>
 </ul>
 
 ### Problem-Solving-Stats
