@@ -34,7 +34,7 @@
 ### My Achievments
 <ul>
   <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
-  
+  <li> 🎓<b>Ranked 14th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2022</li>
 </ul>
 
 ### Problem-Solving-Stats
